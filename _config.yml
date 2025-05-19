@@ -1,5 +1,7 @@
 # Build settings
 
+url: "https://marcxara.com"
+baseurl: ""
 port: 4000
 markdown:  kramdown
 permalink: /:title
