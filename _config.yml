@@ -1,0 +1,12 @@
+# Build settings
+
+port: 4000
+markdown:  kramdown
+permalink: /:title
+plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
+
+# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
+
+title:		   "Artist Portfolio"
+description: "Marc Xará is a multidisciplinary creator focused on Illustration, Design, Music, and Writing. This is his Artist Portfolio."
+author:      "Marc Xará"
